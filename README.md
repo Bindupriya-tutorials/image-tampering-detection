@@ -1,4 +1,4 @@
-# Image Tampering Detection
+# Image Forgery Detection
 
 A deep learning-based image tampering detection project trained using the **CASIA 2.0 Image Tampering Detection Dataset**.
 
