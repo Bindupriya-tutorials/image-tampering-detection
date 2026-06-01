@@ -1,4 +1,4 @@
-# Image Forgery Detection
+# Image Forgery Detection using CASIA 2.0 Dataset
 
 A deep learning-based image tampering detection project trained using the **CASIA 2.0 Image Tampering Detection Dataset**.
 
@@ -10,6 +10,14 @@ This project detects whether an image is:
 - Fake (Tampered)
 
 The model was trained using deep learning techniques for image forgery detection.
+
+## Features
+
+- Detects tampered (fake) images
+- Classifies images as Real or Fake
+- Deep learning-based prediction
+- Trained using CASIA 2.0 dataset
+- Easy model retraining using `train.py`
 
 ## Dataset Used
 
